@@ -30,11 +30,13 @@ body {
 	color: black;
 	background: white;
 }
+
 body { width: 520px; overflow:hidden; }
 a { display: block; }
 </style>
 </head>
 <body>
+This is version 2
 	<img src="images/show_some_love.jpg" alt="A letterpress design that reads show us some love recommend us" width="520px" height="269" />
     <a href="http://www.etsy.com/shop/TwoPaperdollsShop?section_id=10476644&view_type=gallery" target="_blank" title="Shop Two Paperdolls Holiday Cards" style="width: 520px; height: 375px;">
     	<img src="images/holiday_cards.jpg" alt="Letterpress holiday cards" width="520px" height="375" />
