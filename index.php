@@ -30,13 +30,6 @@ body {
 	color: black;
 	background: white;
 }
-ol, ul {
-	list-style: none;
-}
-table {
-	border-collapse: separate;
-	border-spacing: 0;
-}
 body { width: 520px; overflow:hidden; }
 a { display: block; }
 </style>
